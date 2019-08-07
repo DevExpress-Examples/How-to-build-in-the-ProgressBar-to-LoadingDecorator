@@ -6,6 +6,6 @@
     <!--<Application.Resources>
         <DataTemplate x:Key="{dx:WaitIndicatorThemeKey ResourceKey=WaitIndicatorContentTemplate}">
             <TextBlock Text="new wait indicator template..." />
-        </DataTemplate>
+        </DataTemplate> 
     </Application.Resources>-->
 </Application>
